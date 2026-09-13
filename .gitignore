@@ -1,0 +1,9 @@
+# Pastas de compilação
+build/
+
+# Dependências gerenciadas (tipo node_modules)
+managed_components/
+
+# Caches e backups
+.clangd/
+sdkconfig.old
