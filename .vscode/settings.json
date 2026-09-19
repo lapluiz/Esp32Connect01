@@ -1,6 +1,6 @@
 {
   "idf.currentSetup": "C:\\esp\\v6.1\\esp-idf",
-  "idf.monitorPort": "COM6",
+  "idf.monitorPort": "COM3",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32c3",
     "OPENOCD_USB_ADAPTER_LOCATION": "2-1"
@@ -15,5 +15,5 @@
     "board/esp32c3-builtin.cfg"
   ],
   "idf.flashType": "UART",
-  "idf.portWin": "COM6"
+  "idf.portWin": "COM3"
 }
